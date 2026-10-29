@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj": {}
+    "C:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj": {
+    "C:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj",
+        "projectUniqueName": "C:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj",
         "projectName": "Ejercicio1POO",
-        "projectPath": "c:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj",
+        "projectPath": "C:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\Ejercicio1POO.csproj",
         "packagesPath": "C:\\Users\\nupip\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\obj\\",
+        "outputPath": "C:\\Users\\nupip\\Desktop\\Proyectos c#\\Ejercicio1POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nupip\\AppData\\Roaming\\NuGet\\NuGet.Config"
